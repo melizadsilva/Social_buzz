@@ -33,3 +33,18 @@ The client has sent through:
 
 * 7 data sets - each data set contains different columns and values
 * A data model - this shows the relationships between all of the data sets, as well as any links that you can use to merge tables.
+  
+I used this data model to identify which datasets will be required to answer your **business question - which is to to figure out the top 5 categories with the largest popularity**.
+Out of the 7 datasets provided by the client, I select 3 to answer the business probelem.
+
+## Data Cleaning
+* removing rows that have values which are missing,
+* changing the data type of some values within a column
+* removing columns which are not relevant to this task.
+
+## Data Modelling
+Created a final data set by merging the three tables together (Reactions, ReactionType, Content)
+I used the Reaction table as the base table, then joined the relevant columns from Content data set, and then the Reaction Types data set.
+
+## Data Analysis
+
