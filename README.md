@@ -49,6 +49,8 @@ I used the Reaction table as the base table, then joined the relevant columns fr
 
 ## Data Analysis
 ### What are the Top 5 Categories?
-The top 5 Categories based on the score are:
+![Image description](top_5_categories.png)
 
+### What was the month with the most posts?
+![Image description](Monthly_posts.png)
 
