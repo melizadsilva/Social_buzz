@@ -42,9 +42,13 @@ Out of the 7 datasets provided by the client, I select 3 to answer the business 
 * changing the data type of some values within a column
 * removing columns which are not relevant to this task.
 
+
 ## Data Modelling
 Created a final data set by merging the three tables together (Reactions, ReactionType, Content)
 I used the Reaction table as the base table, then joined the relevant columns from Content data set, and then the Reaction Types data set.
 
 ## Data Analysis
+### What are the Top 5 Categories?
+The top 5 Categories based on the score are:
+
 
