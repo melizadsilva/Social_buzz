@@ -48,9 +48,29 @@ Created a final data set by merging the three tables together (Reactions, Reacti
 I used the Reaction table as the base table, then joined the relevant columns from Content data set, and then the Reaction Types data set.
 
 ## Data Analysis
+
+### How many unique Content Categories are there?
+There are 16 unique content categories
+
 ### What are the Top 5 Categories?
 ![Image description](top_5_categories.png)
 
+### How many reactions did the top Category get?
+#### The top Category which was Animal got a total of 1897 reactions
+People obviously really like animals!
+
 ### What was the month with the most posts?
 ![Image description](Monthly_posts.png)
+
+Month of **May** had the most no of posts, followed by January. With **Feburary** being the least.
+
+### Insights
+#### Animals and Science are the 2 most popular content, showing that people enjoy 'real-life' and 'factual' content the most.
+Food is a common theme with the top 5 categories with "Healthy Eating" ranking the highest. This may give an indicatlon to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
+
+
+
+
+
+
 
